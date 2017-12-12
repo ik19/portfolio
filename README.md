@@ -57,3 +57,6 @@ to have a correct impression, you must :
 
 this project is fully responsive allowing a perfect display on both computer and smartphone.
 In addition, a printable version is available.
+
+
+The website is visible at this link : https://ik19.github.io/portfolio/
