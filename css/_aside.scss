@@ -1,0 +1,52 @@
+
+aside {
+	background-color: #eff0f0;
+	margin-top: 10px;
+	h4 {
+		text-align: center;
+		margin-top: 0;
+		margin-bottom: 0px;
+		padding-bottom: 0px;
+		padding: 15px 10px 10px 10px;
+		font-weight: 500;
+		color: $green_12;
+	}
+	h5 {
+		font-size: 0.8em;
+		margin-top: 0;
+		margin-bottom: 0px;
+		padding: 0px 10px 5px 10px;
+		font-weight: 500;
+		color: $dark_grey;
+	}
+	.titre-notion {
+	    font-weight: 500;
+	    font-size: 1em;
+		margin-bottom: 5px;
+	}
+	.notion {
+	    margin-top: 1px;
+	    font-size: 0.9em;
+	    line-height: 1em;
+	    margin: 0px;
+	}
+	.language {
+	    margin-top: 1px;
+	    font-size: 0.9em;
+	    line-height: 1em;
+	    margin: 0px;
+		span {
+			color: $dark_red;
+		}
+	}
+	.descrption-activites {
+		margin-top: 0;
+		padding-bottom: 2px;
+		font-size: 0.85em;
+		line-height: 0.9em;
+		&:last-child {
+			margin-bottom: 0px;
+			padding-bottom: 15px;
+		}
+	}
+}

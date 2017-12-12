@@ -1,0 +1,26 @@
+/* GREY VALUE */
+$black: #000;
+$dark_grey: #333;
+$grey_9: #bbb;
+$grey_10: #ddd;
+$grey_11: #f5f5f5;
+$grey_12: #fafafa;
+$white: #fff;
+
+/* GREEN */
+$green: #66b766;
+$green_6: #29574f;
+$green_9: #499c8e;
+$green_12: #67b7aa;
+$green_16: #a8d6cf;
+
+/* GREEN */
+$dark_red: #088;
+
+
+/* FONT */
+$font_family_1: 'Josefin Sans', Helvetica, sans-serif;
+
+
+/* IMPORT */
+@import 'grid', 'styles', 'aside', 'section', 'print';

@@ -1,0 +1,92 @@
+
+@media print {
+	.bg-img {
+		display: none;
+	}
+	.title-post {
+		display: none;
+	}
+	.header-print {
+		display: block;
+		background-color: $green_12;
+		padding: 5px;
+		h1 {
+			text-align: center;
+			font-weight: 100;
+			font-size: 1.5em;
+			margin-bottom: -5px;
+			color: $white;
+		}
+		span {
+			padding: 10px 20px;
+			text-align: center;
+			line-height: 35px;
+		}
+	}
+ 	.separator1, .separator2 {
+		padding-bottom: 0px;
+	}
+	nav {
+		background-color: $white;
+		color: $black;
+		height: 40px;
+		padding-top: 5px;
+	 	.col-1 {
+			width: 5% !important;
+			font-size: 0.6em;
+			line-height: 40px;
+		}
+		.col-2 {
+			width: 15% !important;
+			font-size: 0.6em;
+			line-height: 40px;
+			img {
+				padding-top: 5px;
+				height: 30px;
+			}
+		}
+		.col-4 {
+		width: 24% !important;
+		font-size: 0.6em;
+		line-height: 40px;
+		}
+	}
+ 	.container {
+		margin-bottom: 10px;
+	}
+	#page {
+		margin: 0;
+		border: none;
+	}
+	h1#top {
+		margin: 0;
+		padding: 0;
+		text-indent: 0;
+		line-height: 25pt;
+		font-size: 25pt;
+	}
+	h2 {
+		color: $black;
+	}
+	h3 {
+		color: $black;
+	}
+	a {
+		color: $black;
+	}
+	aside {
+		background-color: #eff0f0;
+	}
+	.row [class^="col"] {
+		margin: auto 10px;
+	}
+	.col-4 {
+		width: 29.33% !important;
+	}
+	.col-8 {
+		width: 62.66% !important;
+	}
+	.title-exp {
+		font-size: 14px;
+	}
+}
