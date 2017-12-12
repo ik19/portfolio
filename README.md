@@ -6,7 +6,7 @@ _Mohamed-Ikbel Benhabib_
 
 ## Recover the project
 
-_Télécharger ou Clonner le projet_
+_Download or Clone the Project_
 
 ## Tree
 
